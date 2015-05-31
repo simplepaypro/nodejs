@@ -1,4 +1,6 @@
-// JavaScript Document
+//
+// SimplePay API Nodejs example
+//
 var md5 = require('MD5');
 	
 // Функция для сортировки объектов
